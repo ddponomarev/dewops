@@ -2,7 +2,7 @@
 
 ### Задание 1
 
-```
+
 ![настройки jenkins](https://github.com/ddponomarev/dewops/blob/main/img/z1.png)
 ![результат сборки jenkins](https://github.com/ddponomarev/dewops/blob/main/img/z1b.png)
 
